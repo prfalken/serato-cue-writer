@@ -5,6 +5,8 @@ MP3** (ID3 `GEOB` frames), so they show up in Serato DJ Pro. Built for
 house / techno / tech-house, where tracks have a clear intro → build → drop →
 breakdown → drop → outro structure.
 
+![Hot cues placed by serato-cue-writer, shown in Serato DJ Pro](docs/serato-cues.png)
+
 It places a consistent, beat-accurate cue scheme on every track:
 
 | Slot | Cue     | Position                              | Color    |
