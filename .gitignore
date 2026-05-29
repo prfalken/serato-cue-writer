@@ -1,0 +1,21 @@
+# python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# tool outputs
+backups/
+*.log
+_cue_plan.json
+full_cue_plan.json
+retry_plan.json
+*.cue_plan.json
+*.cue_plan.png
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+.env
