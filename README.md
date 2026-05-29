@@ -58,6 +58,8 @@ python3 -m venv venv
 
 ## Usage
 
+![serato-cue-writer running on a folder of tracks](docs/demo.gif)
+
 Two steps: **analyze** (audio → plan JSON, slow) then **write** (plan → tags, fast).
 
 ```bash
